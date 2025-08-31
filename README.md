@@ -18,6 +18,7 @@ Power BI · Excel · SQL · Data Visualization · Business Analytics · Finance 
 🔹 Current Focus
 
 📌 Building and showcasing Power BI & Analytics projects
+
 📌 Enhancing expertise in advanced data analysis tools
 
 🔹 Let’s Connect
